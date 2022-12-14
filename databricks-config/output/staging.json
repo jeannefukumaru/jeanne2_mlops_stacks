@@ -1,0 +1,27 @@
+{
+  "jeanne2_mlops_stacks_batch_inference_job_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "437906009591693"
+  },
+  "jeanne2_mlops_stacks_experiment_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "184566456571317"
+  },
+  "jeanne2_mlops_stacks_experiment_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/jeanne2_mlops_stacks/staging-jeanne2_mlops_stacks-experiment"
+  },
+  "jeanne2_mlops_stacks_model_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "staging-jeanne2_mlops_stacks-model"
+  },
+  "jeanne2_mlops_stacks_training_job_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "32233185997757"
+  }
+}
